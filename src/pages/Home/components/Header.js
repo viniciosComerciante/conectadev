@@ -10,7 +10,7 @@ const Header = () => {
           <div>
             <button>Novo Post</button>
             <span>IMG1</span>
-            <span>IMG2</span>
+            <span>IMG3</span>
           </div>
         </div>
       </header>
